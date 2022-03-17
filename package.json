@@ -73,7 +73,7 @@
     "webpack": "^4.35.2",
     "webpack-dev-server": "^3.7.2",
     "webpack-manifest-plugin": "^2.0.3",
-    "whatwg-fetch": "3.0.0"
+    "whatwg-fetch": "3.6.2"
   },
   "devDependencies": {
     "elm-format": "=0.8.5",
